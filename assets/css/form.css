@@ -71,7 +71,7 @@ main {
     justify-content: center;
     background: var(--form-bg-color);
     max-width: 800px;
-    margin: 0 auto 30px;
+    margin: auto;
     padding: 40px;
     border-radius: 10px;
     gap: 35px;
@@ -184,6 +184,10 @@ input::placeholder {
 }
 
 /* FOOTER */
+
+footer {
+    margin-top: 50px;
+}
 
 .footer__container {
     max-width: 800px;

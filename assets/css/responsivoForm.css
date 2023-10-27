@@ -1,0 +1,42 @@
+@media screen and (max-width: 870px){
+    .container {
+        margin: 0 50px;
+    }
+}
+
+@media screen and (max-width: 450px){
+    .menu {
+        padding: 20px;
+        flex-direction: column;
+        gap: 20px;
+        height: 100px;
+        justify-content: center;
+    }
+
+    .btns {
+        flex-direction: column;
+    }
+
+    form > span {
+        font-size: .7rem;
+    }
+
+}
+
+@media screen and (max-width: 364px){
+    input::placeholder {
+        font-size: .6rem;
+    }
+
+    form input {
+        font-size: .8rem;
+        padding: 10px;
+    }
+}
+
+@media screen and (max-width: 364px) {
+    .btn {
+        font-size: .8rem;
+        padding: 10px 30px;
+}
+}

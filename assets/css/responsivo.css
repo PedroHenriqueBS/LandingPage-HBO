@@ -69,4 +69,22 @@
         font-size: .9rem;
     }
 
+    .listas {
+        gap: 0;
+    }
+
+    .listas li {
+        font-size: .5rem;
+    }
+
+    .containers__div {
+        height: 400px;
+        justify-content: space-between;
+    }
+
+    #btn {
+        padding: 10px 20px;
+        font-size: .4rem;
+    }
+
 }
