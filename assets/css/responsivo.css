@@ -1,0 +1,72 @@
+@media screen and (max-width: 1150px){
+    .main__planos__containers {
+        justify-content: center;
+    }
+
+    .main__planos__containers:has(.containers__div:nth-child(1):hover)
+.containers__div:nth-child(2) {
+  transform: rotateY(0deg);
+}
+
+.main__planos__containers:has(.containers__div:nth-child(2):hover)
+.containers__div:nth-child(1) {
+  transform: rotateY(0deg);
+}
+}
+
+@media screen and (max-width: 900px){
+    .cards__itens {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media screen and (max-width: 500px){
+    .main__planos > h1 {
+        font-size: 1.3rem;
+    }
+    .listas li{
+        font-size: .8rem;
+    }
+
+    #btn {
+        padding: 15px;
+        font-size: .5rem;
+    }
+
+    .subtitle {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .cards__itens {
+        grid-template-columns: repeat(6, 100%);
+        grid-auto-flow: column;
+        overflow: auto hidden;
+    }
+
+    .itens__container {
+        padding: 30px 10px;
+    }
+
+}
+@media screen and (max-width: 400px){
+    .menu {
+        padding: 20px;
+        flex-direction: column;
+        gap: 20px;
+        height: 100px;
+        justify-content: center;
+    }
+
+}
+
+@media screen and (max-width: 340px){
+    .subtitle, .subtitle--plano {
+        font-size: .7rem;
+    }
+
+    .subtitle--plano h1 {
+        font-size: .9rem;
+    }
+
+}
