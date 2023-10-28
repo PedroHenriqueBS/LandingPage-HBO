@@ -379,6 +379,7 @@ header {
     transition: transform 1s, border 1s, filter 1s;
     border: 3px solid rgba(0, 0, 0, 0);
     border-radius: 15px;
+    cursor: pointer;
 }
 
 .itens__container img:hover {
@@ -420,7 +421,6 @@ header {
     font-weight: bold;
     color: var(--link-color);
     font-size: 1rem;
-    transition: 1s;
     cursor: pointer;
 }
 
