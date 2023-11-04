@@ -49,4 +49,3 @@ Você pode acessar ao resultado final do projeto [clicando aqui](https://pedrohe
 [![GitHub](https://img.shields.io/badge/GitHbt-fff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/PedroHenriqueBS)
 [![linkedin](https://img.shields.io/badge/linkedin-fff?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/pedro-henrique-23418b213/)
 [![Instagram](https://img.shields.io/badge/Instagram-fff?style=for-the-badge&logo=instagram)](https://www.instagram.com/pedroohbs_/)
-[![E-mail](https://img.shields.io/badge/-Email-fff?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:pedrohenriqueb366@gmail.com)
