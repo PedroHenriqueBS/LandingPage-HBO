@@ -1,8 +1,8 @@
 <img src="assets/imagens/cover.png">
 
-# <h1 align="center">Site HBO Max</h1>
+# <h1 align="center">Clone do site HBO Max</h1>
 
-#### <p align="center">Clone com modificações.</p>
+#### <p align="center">Com modificações.</p>
 
 #### <p align="center">O projeto é um clone do site HBO Max, com o intuito de reproduzir a interface, com algumas modificações.</p>
 
